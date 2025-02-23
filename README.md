@@ -39,12 +39,13 @@ The system includes key entities such as:
 
 ---
 
-## 🔧 Installation & Setup
 ### 📌 Prerequisites
 Ensure you have the following installed:
 - MariaDB / MS SQL Server
 - PHP and a local server (XAMPP, Apache)
 - Web browser for UI testing
+
+---
 
 ## 🎯 Features in Action
 ### 📊 Live Dashboard (Google Looker Studio)
